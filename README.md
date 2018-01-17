@@ -19,7 +19,7 @@ In the terminal, open up the text editor. For me, it's VI text editor. ![Check h
 Copy and paste the code in p2.sqc under repository to the text editor in the terminal. Save it as **p2.sqc**
 
 #### Step 4.
-In your database application, create an actual database. [It looks like this in IBM DB2](https://cdn.discordapp.com/attachments/316348168465809408/387145801740189696/unknown.png)
+In your database application, create an actual database. I named mine CS157A. [It looks like this in IBM DB2](https://cdn.discordapp.com/attachments/316348168465809408/387145801740189696/unknown.png)
 
 #### Step 5.
 Copy and paste the file contents under create.txt to your database app. [It looks like this in IBM DB2](https://cdn.discordapp.com/attachments/316348168465809408/387355756099403797/unknown.png)
